@@ -348,3 +348,4 @@ fidn
 find
 rm -help
 rm --help
+rm -r fonts
