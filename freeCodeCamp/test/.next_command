@@ -338,3 +338,7 @@ touch client/assets/fontsroboto-bold.woff
 touch client/assets/fonts/roboto-bold.woff
 ls --color=auto
 touch client/assets/fonts/roboto-light.woff
+find
+find name client/assets/fonts
+find -name client/assets/fonts
+find client/assets/fonts
