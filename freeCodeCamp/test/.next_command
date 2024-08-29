@@ -288,3 +288,4 @@ ls --color=auto
 find
 cd client
 mkdir assets
+cd assets
