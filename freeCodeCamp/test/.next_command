@@ -359,3 +359,4 @@ echo Yay!
 Echo I finished the boilerplate!
 echo I finished the boilerplate!
 echo one more thing...
+echo I made this boilerplate >> README.md
