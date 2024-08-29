@@ -346,3 +346,5 @@ touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 fidn
 find
+rm -help
+rm --help
